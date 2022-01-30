@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 15b1d9bab000fa2458c5415a6002e758
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3604597508907039335
+    second: Day-Night-ScortchedDeath-Character.atlas.txt_0
+  - first:
+      213: 8046886045562960744
+    second: Day-Night-ScortchedDeath-Character.atlas.txt_1
+  - first:
+      213: -8869188782661990237
+    second: Day-Night-ScortchedDeath-Character.atlas.txt_2
+  - first:
+      213: -5502240980125487738
+    second: Day-Night-ScortchedDeath-Character.atlas.txt_3
+  - first:
+      213: -4161156983408548457
+    second: Day-Night-ScortchedDeath-Character.atlas.txt_4
+  - first:
+      213: 1624588237500730777
+    second: Day-Night-ScortchedDeath-Character.atlas.txt_5
+  - first:
+      213: -8145565543827379069
+    second: Day-Night-ScortchedDeath-Character.atlas.txt_6
+  - first:
+      213: 1983239836695551573
+    second: Day-Night-ScortchedDeath-Character.atlas.txt_7
+  - first:
+      213: -1767851048755644114
+    second: Day-Night-ScortchedDeath-Character.atlas.txt_8
+  - first:
+      213: -6355810794767444252
+    second: Day-Night-ScortchedDeath-Character.atlas.txt_9
+  - first:
+      213: 7183448349371828674
+    second: Day-Night-ScortchedDeath-Character.atlas.txt_10
+  - first:
+      213: -8420981452198325368
+    second: Day-Night-ScortchedDeath-Character.atlas.txt_11
+  - first:
+      213: -6137296436018110853
+    second: Day-Night-ScortchedDeath-Character.atlas.txt_12
+  - first:
+      213: -8795052240461247503
+    second: Day-Night-ScortchedDeath-Character.atlas.txt_13
+  - first:
+      213: -999439370271518812
+    second: Day-Night-ScortchedDeath-Character.atlas.txt_14
+  - first:
+      213: -4036598445907316355
+    second: Day-Night-ScortchedDeath-Character.atlas.txt_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Day-Night-ScortchedDeath-Character.atlas.txt_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 181
+        width: 26
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5188076, y: -0.0052805585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a79ac165a160230800000000000000
+      internalID: 3604597508907039335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day-Night-ScortchedDeath-Character.atlas.txt_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 177
+        width: 24
+        height: 30
+      alignment: 9
+      pivot: {x: 0.53056115, y: -0.046028648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bf3d569384caf60800000000000000
+      internalID: 8046886045562960744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day-Night-ScortchedDeath-Character.atlas.txt_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 151
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5261955, y: 0.0022871834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a88d8b0bcf4ae480800000000000000
+      internalID: -8869188782661990237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day-Night-ScortchedDeath-Character.atlas.txt_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 147
+        width: 19
+        height: 28
+      alignment: 9
+      pivot: {x: 0.51286715, y: -0.05010387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68de50f0bfc14a3b0800000000000000
+      internalID: -5502240980125487738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day-Night-ScortchedDeath-Character.atlas.txt_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 123
+        width: 29
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5168613, y: -0.026594896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7952c4535c99046c0800000000000000
+      internalID: -4161156983408548457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day-Night-ScortchedDeath-Character.atlas.txt_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 118
+        width: 21
+        height: 27
+      alignment: 9
+      pivot: {x: 0.53492683, y: -0.025201868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d42820562bb8610800000000000000
+      internalID: 1624588237500730777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day-Night-ScortchedDeath-Character.atlas.txt_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 98
+        width: 30
+        height: 23
+      alignment: 9
+      pivot: {x: 0.53259844, y: 0.00038909912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ce1818b4325fe80800000000000000
+      internalID: -8145565543827379069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day-Night-ScortchedDeath-Character.atlas.txt_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 89
+        width: 21
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4883579, y: -0.0070910985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e54a2bf12e58b10800000000000000
+      internalID: 1983239836695551573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day-Night-ScortchedDeath-Character.atlas.txt_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 76
+        width: 31
+        height: 20
+      alignment: 9
+      pivot: {x: 0.50788724, y: -0.025654221}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e293e1f66d45777e0800000000000000
+      internalID: -1767851048755644114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day-Night-ScortchedDeath-Character.atlas.txt_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 60
+        width: 21
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5582123, y: 0.011019389}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e61b46b1cf9bc7a0800000000000000
+      internalID: -6355810794767444252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day-Night-ScortchedDeath-Character.atlas.txt_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 57
+        width: 31
+        height: 17
+      alignment: 9
+      pivot: {x: 0.50788724, y: -0.0033625434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c98ca6d63cb0b360800000000000000
+      internalID: 7183448349371828674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day-Night-ScortchedDeath-Character.atlas.txt_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 31
+        width: 15
+        height: 27
+      alignment: 9
+      pivot: {x: 0.54889834, y: 0.029129876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883d0994cf9a22b80800000000000000
+      internalID: -8420981452198325368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day-Night-ScortchedDeath-Character.atlas.txt_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 38
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.48471957, y: -0.060889974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e9ed18861f3daa0800000000000000
+      internalID: -6137296436018110853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day-Night-ScortchedDeath-Character.atlas.txt_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 23
+        width: 32
+        height: 12
+      alignment: 9
+      pivot: {x: 0.50764054, y: 0.011019071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbcd42e592b1f580800000000000000
+      internalID: -8795052240461247503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day-Night-ScortchedDeath-Character.atlas.txt_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2
+        width: 11
+        height: 27
+      alignment: 9
+      pivot: {x: 0.54445267, y: -0.0070912796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af0d6020374122f0800000000000000
+      internalID: -999439370271518812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day-Night-ScortchedDeath-Character.atlas.txt_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 32
+        height: 19
+      alignment: 9
+      pivot: {x: 0.50000024, y: -0.0018485973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71fccaa91f1bf7c0800000000000000
+      internalID: -4036598445907316355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
