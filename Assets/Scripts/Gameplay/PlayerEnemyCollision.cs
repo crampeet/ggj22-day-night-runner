@@ -49,6 +49,8 @@ namespace Platformer.Gameplay
                 var playerHealth = player.GetComponent<Health>();
                 if (playerHealth != null)
                 {
+                    if (player.audioSource && player.ouchAudio)
+                        player.audioSource.PlayOneShot(player.ouchAudio);
                     playerHealth.Decrement();
                 }
             }
