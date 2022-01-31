@@ -24,15 +24,15 @@ namespace Platformer.Mechanics
         /// <summary>
         /// Max horizontal speed of the player.
         /// </summary>
-        public float maxSpeed = 7;
+        public float maxSpeed;
         /// <summary>
         /// Initial jump velocity at the start of a jump.
         /// </summary>
-        public float jumpTakeOffSpeed = 7;
+        public float jumpTakeOffSpeed;
         /// <summary>
         /// Speed modifier while sliding as a multiplicative factor of max speed.
         /// </summary>
-        public float slideSpeedModifier = 1.2f;
+        public float slideSpeedModifier;
 
         public JumpState jumpState = JumpState.Grounded;
         private bool stopJump;
@@ -75,9 +75,9 @@ namespace Platformer.Mechanics
                     audioSource.PlayOneShot(runAudio);
                 }
 
-                if (jumpState == JumpState.Grounded && (Input.GetButtonDown("Jump") || pressUpDown > 0))
+                if (jumpState == JumpState.Grounded && pressUpDown > 0)
                     jumpState = JumpState.PrepareToJump;
-                else if (Input.GetButtonUp("Jump") || pressUpDown <= 0)
+                else if (pressUpDown <= 0)
                 {
                     stopJump = true;
                     Schedule<PlayerStopJump>().player = this;

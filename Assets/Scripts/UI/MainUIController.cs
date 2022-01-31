@@ -25,5 +25,11 @@ namespace Platformer.UI
         {
             SetActivePanel(0);
         }
+
+        public void Quit()
+        {
+            Debug.Log("Quitting game...");
+            Application.Quit();
+        }
     }
 }

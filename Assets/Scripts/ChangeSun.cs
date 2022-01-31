@@ -4,10 +4,11 @@ using UnityEngine;
 
 public class ChangeSun : MonoBehaviour
 {
-    public bool SunState;
+    public bool isSunHot;
     private double GlobalPosition;
     int ranNum;
     public SpriteRenderer spriteRenderer;
+    public float rotationSpeed = 0.2f;
     
 
     // Start is called before the first frame update
@@ -19,32 +20,22 @@ public class ChangeSun : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Rotate(0, 0, .025f);
+        transform.Rotate(0, 0, rotationSpeed);
         GlobalPosition = transform.rotation.z;
-        if (GlobalPosition > -.0025f && GlobalPosition < .0025f)
+        if (GlobalPosition > -0.02 && GlobalPosition < 0.02)
         {
-            Debug.Log("It worked");
             ranNum = Random.Range(0, 10);
-            if(ranNum > 5)
+            isSunHot = ranNum > 5;
+            //Debug.Log("Sun State: " + isSunHot);
+            if (isSunHot)
             {
-                SunState = true;
-            }
-            else
-            {
-                SunState = false;
-            }
-            Debug.Log(SunState);
-            Debug.Log(ranNum);
-            if (SunState)
-            {
-                Debug.Log("Its red");
+                //Debug.Log("Its red");
                 spriteRenderer.color = new Color(255, 0, 0, 1);
             }
             else
             { 
-                Debug.Log("Its blue");
+                //Debug.Log("Its blue");
                 spriteRenderer.color = new Color(0, 0, 255, 1);
-                
             }
         }
     }
